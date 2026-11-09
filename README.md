@@ -1,6 +1,4 @@
-Semua panduan pengujian CLI dan langkah penjelasannya sudah digabungkan secara utuh ke dalam dokumen **`README.md`** di bawah ini.
 
-Kamu tinggal menyalin (*copy*) seluruh isi di dalam kotak kode berikut dan menempelkannya (*paste*) langsung ke file **`README.md`**:
 
 ```markdown
 # Online Book Catalog Organizer (Automation System)
@@ -75,7 +73,7 @@ python main.py --help
 
 ```
 
-> **Penjelasan Demo saat Presentasi:** *"Perintah ini menampilkan menu bantuan CLI untuk membuktikan bahwa program mendukung 7 argumen konfigurasi dinamis tanpa perlu mengubah kode program secara manual."*
+> *"Perintah ini menampilkan menu bantuan CLI untuk membuktikan bahwa program mendukung 7 argumen konfigurasi dinamis tanpa perlu mengubah kode program secara manual."*
 
 ---
 
@@ -101,7 +99,7 @@ python main.py --keyword "python" --limit 30
 
 ```
 
-> **Penjelasan Demo saat Presentasi:** *"Perintah ini membuktikan program dapat memproses kata kunci pencarian lain dengan batas record yang disesuaikan secara dinamis."*
+> *"Perintah ini membuktikan program dapat memproses kata kunci pencarian lain dengan batas record yang disesuaikan secara dinamis."*
 
 ---
 
@@ -114,7 +112,7 @@ python main.py --search-only --keyword austen --field penulis
 
 ```
 
-> **Penjelasan Demo saat Presentasi:** *"Fitur pencarian offline ini mencari data secara cepat dari `hasil_scraping.csv` tanpa melakukan HTTP request ulang ke internet."*
+> *"Fitur pencarian offline ini mencari data secara cepat dari `hasil_scraping.csv` tanpa melakukan HTTP request ulang ke internet."*
 
 ---
 
@@ -127,7 +125,7 @@ python main.py --url http://localhost:1/x
 
 ```
 
-> **Penjelasan Demo saat Presentasi:** *"Perintah ini menguji ketahanan sistem. Program akan mencoba melakukan retry hingga 3 kali, lalu berhenti secara aman dengan pesan peringatan rapi tanpa crash."*
+> *"Perintah ini menguji ketahanan sistem. Program akan mencoba melakukan retry hingga 3 kali, lalu berhenti secara aman dengan pesan peringatan rapi tanpa crash."*
 
 ---
 
@@ -140,7 +138,7 @@ python main.py --search-only --output folder_kosong
 
 ```
 
-> **Penjelasan Demo saat Presentasi:** *"Membuktikan exception handling berjalan baik saat file CSV tidak ditemukan, sehingga program menampilkan pesan kesalahan yang rapi dan tidak memunculkan traceback error."*
+> *"Membuktikan exception handling berjalan baik saat file CSV tidak ditemukan, sehingga program menampilkan pesan kesalahan yang rapi dan tidak memunculkan traceback error."*
 
 ---
 
@@ -153,16 +151,7 @@ rmdir /s /q folder_kosong
 
 ```
 
-> **Penjelasan Demo saat Presentasi:** *"Langkah terakhir ini dilakukan untuk menghapus folder temporary hasil pengujian error handling agar struktur folder utama tetap bersih saat dikumpulkan."*
+> "Langkah terakhir ini dilakukan untuk menghapus folder temporary hasil pengujian error handling agar struktur folder utama tetap bersih saat dikumpulkan."*
 
 
-```
 
-<ElicitationsGroup message="Opsi penyempurnaan repositori proyek:">
-  <Elicitation label="Buatkan isi file requirements.txt" query="Buatkan isi file requirements.txt untuk proyek UTS Automation System ini."/>
-  <Elicitation label="Tampilkan ringkasan checklist berkas sebelum di-zip" query="Berikan checklist kelengkapan seluruh file dan folder proyek UTS Automation System sebelum dikumpulkan."/>
-</ElicitationsGroup>
-
-<FollowUp label="Mau saya buatkan file requirements.txt sekalian untuk melengkapi repositorinya?" query="Buatkan isi file requirements.txt untuk proyek ini."/>
-
-```
