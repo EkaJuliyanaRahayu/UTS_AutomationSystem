@@ -1,0 +1,30 @@
+Hands-On Machine Learning with Scikit-Learn Keras and TensorFlow | Aurélien Géron | 2019 | https://openlibrary.org/works/OL20709638W
+Machine learning | Kevin P. Murphy | 2012 | https://openlibrary.org/works/OL16571885W
+Machine learning | Ethem Alpaydin | 2016 | https://openlibrary.org/works/OL19723604W
+Why Machines Learn | Anil Ananthaswamy | 2024 | https://openlibrary.org/works/OL37831042W
+Introduction to Machine Learning with Python | Andreas C. Mueller | 2016 | https://openlibrary.org/works/OL17357597W
+Introduction to machine learning | Ethem Alpaydin | 2004 | https://openlibrary.org/works/OL5743132W
+Machine Learning System Design Interview | Ali Aminian | 2023 | https://openlibrary.org/works/OL34313663W
+Machine Learning | Mg Martin | 2019 | https://openlibrary.org/works/OL30078590W
+Machine Learning Proceedings 1995 | Machine Learning | 1995 | https://openlibrary.org/works/OL8856024W
+Mathematics for Machine Learning | Marc Peter Deisenroth | 2019 | https://openlibrary.org/works/OL20914440W
+Machine Learning For Dummies | John Paul Mueller | 2016 | https://openlibrary.org/works/OL19546858W
+Designing Machine Learning Systems | Chip Huyen | 2022 | https://openlibrary.org/works/OL26768541W
+Machine Learning | Tom M. Mitchell | 1997 | https://openlibrary.org/works/OL2640191W
+The Alignment Problem | Brian Christian | 2020 | https://openlibrary.org/works/OL20781447W
+The Hundred-Page Machine Learning Book | Andriy Burkov | 2019 | https://openlibrary.org/works/OL21654311W
+Python machine learning | Sebastian Raschka | 2015 | https://openlibrary.org/works/OL19667740W
+Machine Learning For Absolute Beginners | Oliver Theobald | 2017 | https://openlibrary.org/works/OL20794000W
+Machine Learning | Vincy Joseph Anuradha Srinivasaraghavan | 2018 | https://openlibrary.org/works/OL24227753W
+Machine Learning with Pytorch and Scikit-Learn | Sebastian Raschka | 2022 | https://openlibrary.org/works/OL27412373W
+Foundations of machine learning | Mehryar Mohri | 2012 | https://openlibrary.org/works/OL16585190W
+The Time Machine | H. G. Wells | Tidak diketahui | https://openlibrary.org/works/OL52267W
+Advances in Financial Machine Learning | Marcos Lopez de Prado | 2018 | https://openlibrary.org/works/OL20583340W
+Machine learning | Stephen Marsland | 2009 | https://openlibrary.org/works/OL9767369W
+Machine Learning | Jason Bell | 2014 | https://openlibrary.org/works/OL20347411W
+Understanding Machine Learning | Shai Shalev-Shwartz | 2014 | https://openlibrary.org/works/OL17801808W
+Machine-Learning Basics for Beginners : Machine Learning Methods | Valentin Cholewa | 2021 | https://openlibrary.org/works/OL28710463W
+AI and Machine Learning for Coders | Laurence Moroney | 2020 | https://openlibrary.org/works/OL21697521W
+Machine learning for hackers | Drew Conway | 2012 | https://openlibrary.org/works/OL16921250W
+Grokking Machine Learning | Luis Serrano | 2021 | https://openlibrary.org/works/OL25456853W
+Machine Learning for Business Analytics | Galit Shmueli | 2022 | https://openlibrary.org/works/OL26524232W

@@ -1,0 +1,14 @@
+=== LAPORAN RINGKASAN AUTOMASI ONLINE BOOK CATALOG ORGANIZER ===
+Kata Kunci Pencarian : machine learning
+Total Record Berhasil: 30
+--------------------------------------------------
+1. Hands-On Machine Learning with Scikit-Learn Keras and TensorFlow (2019) - Aurélien Géron
+2. Machine learning (2012) - Kevin P. Murphy
+3. Machine learning (2016) - Ethem Alpaydin
+4. Why Machines Learn (2024) - Anil Ananthaswamy
+5. Introduction to Machine Learning with Python (2016) - Andreas C. Mueller
+6. Introduction to machine learning (2004) - Ethem Alpaydin
+7. Machine Learning System Design Interview (2023) - Ali Aminian
+8. Machine Learning (2019) - Mg Martin
+9. Machine Learning Proceedings 1995 (1995) - Machine Learning
+10. Mathematics for Machine Learning (2019) - Marc Peter Deisenroth
